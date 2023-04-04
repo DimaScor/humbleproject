@@ -1,0 +1,5 @@
+com\myproject\humbleproject\security\CustomUserDetailsService.class
+com\myproject\humbleproject\entities\User.class
+com\myproject\humbleproject\entities\Role.class
+com\myproject\humbleproject\services\interfaces\UserService.class
+com\myproject\humbleproject\security\JwtTokenProvider.class
